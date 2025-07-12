@@ -1,2 +1,2 @@
 # Rankzzy
-Rankzzy: Unweighted Fuzzy Rank System for Value-Based Decision-Making
+Rankzzy: Unweighted Fuzzy Ranking System for Value-Based Decision-Making
